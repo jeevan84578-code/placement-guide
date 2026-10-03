@@ -13,7 +13,7 @@ from prompts import (
 
 # ---------------- CONFIG ---------------- #
 
-MODEL_NAME = "gemini-3.8-flash" 
+MODEL_NAME = "gemini-2.4-flash" 
 
 st.set_page_config(
     page_title="CareerLens AI",
